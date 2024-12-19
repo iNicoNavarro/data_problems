@@ -1,0 +1,14 @@
+cid,name,type,notnull,dflt_value,pk
+0,id,INTEGER,0,,1
+1,localidad,TEXT,1,,0
+2,pais,TEXT,1,,0
+3,temperatura_fahrenheit,REAL,1,,0
+4,fecha_y_hora,DATE,1,,0
+5,cobertura_nubes,TEXT,0,,0
+6,indice_uv,REAL,0,,0
+7,presion_atmosferica,REAL,0,,0
+8,velocidad_viento,REAL,0,,0
+9,created_at,DATETIME,0,CURRENT_TIMESTAMP,0
+10,updated_at,DATETIME,0,CURRENT_TIMESTAMP,0
+11,delta_temperatura_horaria,REAL,0,,0
+12,delta_temperatura_diaria,REAL,0,,0

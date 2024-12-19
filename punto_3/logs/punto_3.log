@@ -1,0 +1,235 @@
+2024-12-19 05:22:40,270 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:22:40,299 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:22:40,409 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:22:40,410 - INFO - Process completed successfully.
+2024-12-19 05:22:40,412 - INFO - Database connection closed.
+2024-12-19 05:28:53,878 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:28:53,882 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:28:53,938 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:28:53,975 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 05:28:53,985 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 05:28:53,986 - INFO - Process completed successfully.
+2024-12-19 05:28:53,987 - INFO - Database connection closed.
+2024-12-19 05:36:42,790 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:36:42,794 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:36:42,861 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:36:42,913 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 05:36:42,925 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 05:36:42,925 - INFO - Process completed successfully.
+2024-12-19 05:36:42,927 - INFO - Database connection closed.
+2024-12-19 05:36:59,201 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:36:59,204 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:36:59,249 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:36:59,277 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 05:36:59,282 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 05:36:59,282 - INFO - Process completed successfully.
+2024-12-19 05:36:59,284 - INFO - Database connection closed.
+2024-12-19 05:37:36,312 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:37:36,319 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:37:36,387 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:37:36,474 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 05:37:36,488 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 05:37:36,489 - INFO - Process completed successfully.
+2024-12-19 05:37:36,491 - INFO - Database connection closed.
+2024-12-19 05:39:28,518 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 05:39:28,529 - INFO - Table 'weather_data' created successfully.
+2024-12-19 05:39:28,584 - INFO - 500 dummy records inserted successfully.
+2024-12-19 05:39:28,604 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 05:39:28,610 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 05:39:28,610 - INFO - Process completed successfully.
+2024-12-19 05:39:28,612 - INFO - Database connection closed.
+2024-12-19 06:00:58,913 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:00:58,918 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:00:58,989 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:00:59,004 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:00:59,035 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:00:59,110 - INFO - Delta columns added successfully.
+2024-12-19 06:00:59,207 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:00:59,236 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:00:59,243 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:00:59,264 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:00:59,274 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:00:59,274 - INFO - Process completed successfully.
+2024-12-19 06:00:59,276 - INFO - Database connection closed.
+2024-12-19 06:20:11,577 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:20:11,597 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:20:11,668 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:20:11,684 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:20:11,712 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:20:11,713 - ERROR - Error adding delta columns: near "EXISTS": syntax error
+2024-12-19 06:20:11,716 - ERROR - Error calculating temperature deltas: no such column: delta_temperatura_horaria
+2024-12-19 06:20:11,744 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:20:11,757 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:20:11,785 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:20:11,803 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:20:11,804 - INFO - Process completed successfully.
+2024-12-19 06:20:11,807 - INFO - Database connection closed.
+2024-12-19 06:26:02,537 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:26:02,542 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:26:02,604 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:26:02,606 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:26:02,633 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:26:02,633 - ERROR - Error adding delta columns: near "EXISTS": syntax error
+2024-12-19 06:26:02,634 - ERROR - Error calculating temperature deltas: no such column: delta_temperatura_horaria
+2024-12-19 06:26:02,659 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:26:02,666 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:26:02,693 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:26:02,701 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:26:02,702 - INFO - Process completed successfully.
+2024-12-19 06:26:02,703 - INFO - Database connection closed.
+2024-12-19 06:26:26,387 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:26:26,392 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:26:26,452 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:26:26,454 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:26:26,520 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:26:26,595 - INFO - Delta columns added successfully.
+2024-12-19 06:26:26,678 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:26:26,718 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:26:26,728 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:26:26,829 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:26:26,844 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:26:26,844 - INFO - Process completed successfully.
+2024-12-19 06:26:26,847 - INFO - Database connection closed.
+2024-12-19 06:34:06,428 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:34:06,448 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:34:06,499 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:34:06,510 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:34:06,527 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:34:06,570 - INFO - Delta columns added successfully.
+2024-12-19 06:34:06,600 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:34:06,620 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:34:06,626 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:34:06,637 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:34:06,644 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:34:06,645 - INFO - Process completed successfully.
+2024-12-19 06:34:06,647 - INFO - Database connection closed.
+2024-12-19 06:39:27,948 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:39:27,952 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:39:28,014 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:39:28,016 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:39:28,042 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:39:28,042 - ERROR - Error adding delta columns: duplicate column name: delta_temperatura_horaria
+2024-12-19 06:39:28,192 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:39:28,255 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:39:28,269 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:39:28,323 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:39:28,352 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:39:28,353 - INFO - Process completed successfully.
+2024-12-19 06:39:28,359 - INFO - Database connection closed.
+2024-12-19 06:39:57,396 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:39:57,409 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:39:57,458 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:39:57,476 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:39:57,495 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:39:57,550 - INFO - Delta columns added successfully.
+2024-12-19 06:39:57,620 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:39:57,645 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:39:57,656 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:39:57,675 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:39:57,686 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:39:57,686 - INFO - Process completed successfully.
+2024-12-19 06:39:57,689 - INFO - Database connection closed.
+2024-12-19 06:41:54,566 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:41:54,582 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:41:54,621 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:41:54,634 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:41:54,654 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:41:54,704 - INFO - Delta columns added successfully.
+2024-12-19 06:41:54,768 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:41:54,785 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:41:54,793 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:41:54,807 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:41:54,816 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:41:54,816 - INFO - Process completed successfully.
+2024-12-19 06:41:54,818 - INFO - Database connection closed.
+2024-12-19 06:47:30,257 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:47:30,271 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:47:30,320 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:47:30,337 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:47:30,358 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:47:30,408 - INFO - Delta columns added successfully.
+2024-12-19 06:47:30,464 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:47:30,481 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:47:30,488 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:47:30,500 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:47:30,508 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:47:30,508 - INFO - Process completed successfully.
+2024-12-19 06:47:30,510 - INFO - Database connection closed.
+2024-12-19 06:48:48,545 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 06:48:48,558 - INFO - Table 'weather_data' created successfully.
+2024-12-19 06:48:48,598 - INFO - 500 dummy records inserted successfully.
+2024-12-19 06:48:48,610 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 06:48:48,629 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 06:48:48,680 - INFO - Delta columns added successfully.
+2024-12-19 06:48:48,727 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 06:48:48,742 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 06:48:48,750 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 06:48:48,763 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 06:48:48,771 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 06:48:48,772 - INFO - Process completed successfully.
+2024-12-19 06:48:48,776 - INFO - Database connection closed.
+2024-12-19 07:01:19,859 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 07:01:19,868 - INFO - Table 'weather_data' created successfully.
+2024-12-19 07:01:19,912 - INFO - 200 dummy records inserted successfully.
+2024-12-19 07:01:19,931 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 07:01:19,950 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 07:01:19,998 - INFO - Delta columns added successfully.
+2024-12-19 07:01:20,028 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 07:01:20,043 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 07:01:20,052 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 07:01:20,066 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 07:01:20,074 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 07:01:20,075 - INFO - Process completed successfully.
+2024-12-19 07:01:20,077 - INFO - Database connection closed.
+2024-12-19 07:09:56,164 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 07:09:56,168 - INFO - Table 'weather_data' created successfully.
+2024-12-19 07:09:56,207 - INFO - 200 dummy records inserted successfully.
+2024-12-19 07:09:56,209 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 07:09:56,227 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 07:09:56,228 - ERROR - Error adding delta columns: duplicate column name: delta_temperatura_horaria
+2024-12-19 07:09:56,251 - ERROR - Error calculating temperature deltas: no such table: DeltaDailyFahrenheit
+2024-12-19 07:09:56,265 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 07:09:56,272 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 07:09:56,283 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 07:09:56,290 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 07:09:56,290 - INFO - Process completed successfully.
+2024-12-19 07:09:56,303 - INFO - Database connection closed.
+2024-12-19 07:11:09,832 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 07:11:09,836 - INFO - Table 'weather_data' created successfully.
+2024-12-19 07:11:09,893 - INFO - 200 dummy records inserted successfully.
+2024-12-19 07:11:09,895 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 07:11:09,919 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 07:11:09,920 - ERROR - Error adding delta columns: duplicate column name: delta_temperatura_horaria
+2024-12-19 07:11:09,956 - ERROR - Error calculating temperature deltas: no such column: delta_diaria_f
+2024-12-19 07:11:09,974 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 07:11:09,980 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 07:11:10,002 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 07:11:10,008 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 07:11:10,009 - INFO - Process completed successfully.
+2024-12-19 07:11:10,026 - INFO - Database connection closed.
+2024-12-19 07:13:18,719 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 07:13:18,723 - INFO - Table 'weather_data' created successfully.
+2024-12-19 07:13:18,774 - INFO - 200 dummy records inserted successfully.
+2024-12-19 07:13:18,776 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 07:13:18,817 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 07:13:18,818 - ERROR - Error adding delta columns: duplicate column name: delta_temperatura_horaria
+2024-12-19 07:13:19,022 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 07:13:19,053 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 07:13:19,063 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 07:13:19,099 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 07:13:19,110 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 07:13:19,111 - INFO - Process completed successfully.
+2024-12-19 07:13:19,114 - INFO - Database connection closed.
+2024-12-19 07:14:33,213 - INFO - Connected to database at /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database/weather_data.db
+2024-12-19 07:14:33,215 - INFO - Table 'weather_data' created successfully.
+2024-12-19 07:14:33,257 - INFO - 200 dummy records inserted successfully.
+2024-12-19 07:14:33,262 - INFO - Table 'weather_data_fahrenheit' created successfully.
+2024-12-19 07:14:33,296 - INFO - Data successfully populated into 'weather_data_fahrenheit'.
+2024-12-19 07:14:33,297 - ERROR - Error adding delta columns: duplicate column name: delta_temperatura_horaria
+2024-12-19 07:14:33,598 - INFO - Temperature deltas calculated and updated successfully.
+2024-12-19 07:14:33,634 - INFO - Table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data.csv successfully.
+2024-12-19 07:14:33,643 - INFO - Schema of table 'weather_data' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_schema.csv successfully.
+2024-12-19 07:14:33,696 - INFO - Table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit.csv successfully.
+2024-12-19 07:14:33,706 - INFO - Schema of table 'weather_data_fahrenheit' exported to /mnt/c/Users/LENOVO/Documents/repositories/data-know-test/punto_3/sources/../database_data/weather_data_fahrenheit_schema.csv successfully.
+2024-12-19 07:14:33,707 - INFO - Process completed successfully.
+2024-12-19 07:14:33,710 - INFO - Database connection closed.
