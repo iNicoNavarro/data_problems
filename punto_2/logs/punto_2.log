@@ -1,0 +1,81 @@
+2024-12-19 03:24:54,051 - INFO - Inicio del proceso.
+2024-12-19 03:24:54,052 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:24:54,264 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:26:10,295 - INFO - Inicio del proceso.
+2024-12-19 03:26:10,296 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:26:10,435 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 03:26:10,437 - ERROR - Error en las columnas del archivo maestro: 'Tipo de central'
+2024-12-19 03:26:10,438 - ERROR - Error en el proceso: 'Tipo de central'
+2024-12-19 03:38:34,033 - INFO - Inicio del proceso.
+2024-12-19 03:38:34,033 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:38:34,194 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:43:14,558 - INFO - Inicio del proceso.
+2024-12-19 03:43:14,559 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:43:14,892 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:45:25,440 - INFO - Inicio del proceso.
+2024-12-19 03:45:25,441 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:45:25,681 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:45:41,046 - INFO - Inicio del proceso.
+2024-12-19 03:45:41,046 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:45:41,206 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:50:00,840 - INFO - Inicio del proceso.
+2024-12-19 03:50:00,841 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:50:01,113 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 03:50:01,114 - ERROR - Error en las columnas del archivo maestro: 'tipo_de_central'
+2024-12-19 03:50:01,115 - ERROR - Error en el proceso: 'tipo_de_central'
+2024-12-19 03:50:29,315 - INFO - Inicio del proceso.
+2024-12-19 03:50:29,315 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:50:29,479 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:59:34,403 - INFO - Inicio del proceso.
+2024-12-19 03:59:34,404 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:59:34,644 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 03:59:55,707 - INFO - Inicio del proceso.
+2024-12-19 03:59:55,710 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 03:59:55,948 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 04:01:19,369 - INFO - Inicio del proceso.
+2024-12-19 04:01:19,369 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:01:19,601 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:01:19,602 - ERROR - Error en las columnas del archivo maestro: 'nombre_visible_agente'
+2024-12-19 04:01:19,602 - ERROR - Error en el proceso: 'nombre_visible_agente'
+2024-12-19 04:01:50,152 - INFO - Inicio del proceso.
+2024-12-19 04:01:50,152 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:01:50,314 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:01:50,333 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 04:04:49,333 - INFO - Inicio del proceso.
+2024-12-19 04:04:49,334 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:04:49,551 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:04:49,558 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:04:49,565 - ERROR - Error cargando el archivo dDEC: 'utf-8' codec can't decode byte 0xd1 in position 7363: invalid continuation byte
+2024-12-19 04:04:49,565 - ERROR - Error en el proceso: 'utf-8' codec can't decode byte 0xd1 in position 7363: invalid continuation byte
+2024-12-19 04:10:32,338 - INFO - Inicio del proceso.
+2024-12-19 04:10:32,339 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:10:32,571 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:10:32,579 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:10:32,588 - ERROR - Error cargando el archivo dDEC: 'utf-8' codec can't decode byte 0xd1 in position 6: invalid continuation byte
+2024-12-19 04:10:32,589 - ERROR - Error en el proceso: 'utf-8' codec can't decode byte 0xd1 in position 6: invalid continuation byte
+2024-12-19 04:11:43,922 - INFO - Inicio del proceso.
+2024-12-19 04:11:43,922 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:11:44,152 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:11:44,158 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:11:44,188 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 04:20:38,163 - INFO - Inicio del proceso.
+2024-12-19 04:20:38,164 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:20:38,398 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:20:38,422 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:20:38,434 - INFO - Realizando merge entre datos maestros y dDEC.
+2024-12-19 04:20:38,465 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 04:26:01,509 - INFO - Inicio del proceso.
+2024-12-19 04:26:01,510 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:26:01,753 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:26:01,763 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:26:01,775 - INFO - Realizando merge entre datos maestros y dDEC.
+2024-12-19 04:26:01,790 - INFO - Calculando suma horizontal de las columnas de horas.
+2024-12-19 04:26:01,829 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
+2024-12-19 04:26:36,854 - INFO - Inicio del proceso.
+2024-12-19 04:26:36,855 - INFO - Cargando datos maestros desde el archivo Excel.
+2024-12-19 04:26:37,013 - INFO - Filtrando datos maestros para agentes específicos y tipos de central.
+2024-12-19 04:26:37,016 - INFO - Cargando datos del archivo dDEC1204.TXT.
+2024-12-19 04:26:37,025 - INFO - Realizando merge entre datos maestros y dDEC.
+2024-12-19 04:26:37,028 - INFO - Calculando suma horizontal de las columnas de horas.
+2024-12-19 04:26:37,058 - INFO - Guardando resultados filtrados en ../processed_data/filtered_results.csv.
+2024-12-19 04:26:37,068 - INFO - Proceso completado. Archivo generado en: ../processed_data/filtered_results.csv
